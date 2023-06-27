@@ -1,0 +1,26 @@
+.users-table{
+    width: 80%;
+    border: 1px solid rgb(180, 173, 173);
+    height:  auto;
+    border: 1px solid rgb(180, 173, 173);
+    border-collapse:collapse;
+}
+
+
+thead{
+    color: white;
+    background-color: black;
+    height: 60px;
+}
+table thead{
+    text-align: left;
+}
+tbody td{
+    height: 60px;
+}
+tbody tr:nth-child(odd){
+    background-color: rgba(216, 212, 212, 0.74);
+}
+tbody td{
+    
+}
